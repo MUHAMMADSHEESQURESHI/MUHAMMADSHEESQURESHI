@@ -11,8 +11,7 @@ I'm a passionate developer learning to build full-stack applications with MongoD
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,vscode,postman,tailwind" />
-  </a>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,firebase,js,html,css,git,vscode,tailwind" />  </a>
 </p>
 
 
