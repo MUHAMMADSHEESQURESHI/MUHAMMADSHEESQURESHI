@@ -28,6 +28,5 @@ I'm a passionate developer learning to build full-stack applications with MongoD
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MUHAMMADSHEESQURESHI&show_icons=true&theme=dark" alt="Stats Card" />
 </p>
 
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user= MUHAMMADSHEESQURESHI&theme=dark&hide_border=false" alt="GitHub Streak" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MUHAMMADSHEESQURESHI" alt="GitHub Streak" /></a>
 
