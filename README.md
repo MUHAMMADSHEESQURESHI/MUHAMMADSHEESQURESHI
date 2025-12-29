@@ -29,6 +29,6 @@ I'm a passionate developer learning to build full-stack applications with MongoD
 </p>
 
 <p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMADSHEESQURESHI&theme=dark&hide_border=false" alt="GitHub Streak" />
+<img src="https://camo.githubusercontent.com/MUHAMMADSHEESQURESHI"/>
 </p>
 
