@@ -7,7 +7,7 @@ I'm a passionate developer learning to build full-stack applications with MongoD
 - 🌱 I’m currently learning **MERN Stack & Deployment**
 - 💬 Ask me about **JavaScript, React, or CSS**
 - 📫 How to reach me: **muhammadshees819@gmail.com**
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MUHAMMADSHEESQURESHI&theme=dark&type=png)](https://git.io/streak-stats)
 
 
 ### 🤝 Connect with me:
@@ -28,5 +28,5 @@ I'm a passionate developer learning to build full-stack applications with MongoD
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MUHAMMADSHEESQURESHI&show_icons=true&theme=dark" alt="Stats Card" />
 </p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MUHAMMADSHEESQURESHI&theme=dark&type=png" alt="GitHub Streak" /></a>
+
 
