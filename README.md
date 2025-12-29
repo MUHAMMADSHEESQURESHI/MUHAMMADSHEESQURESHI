@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm MUHAMMAD SHEES QURESHI
 
-<!--
-**MUHAMMADSHEESQURESHI/MUHAMMADSHEESQURESHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN Stack Developer in Training
+I'm a passionate developer learning to build full-stack applications with MongoDB, Express, React, and Node.js.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Full-Stack Projects**
+- 🌱 I’m currently learning **MERN Stack & Deployment**
+- 💬 Ask me about **JavaScript, React, or CSS**
+- 📫 How to reach me: **muhammadshees819@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js,html,css,git,vscode,postman,tailwind" />
+  </a>
+</p>
+
+
+
