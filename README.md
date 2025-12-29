@@ -13,16 +13,16 @@ I'm a passionate developer learning to build full-stack applications with MongoD
 ### 🤝 Connect with me:
 <p align="left">
    <a href="https://www.linkedin.com/in/muhammad-shees-399780252/">
-        <img src="https://img.icons8.com/color/48/linkedin.png" width="28"/>
+        <img src="https://img.icons8.com/color/48/linkedin.png" width="38"/>
 </a>
   <a href="https://www.facebook.com/profile.php?id=100068210876089">
-        <img src="https://img.icons8.com/color/48/facebook-new.png" width="28"/>
+        <img src="https://img.icons8.com/color/48/facebook-new.png" />
   </a>
  <a href="https://github.com/MUHAMMADSHEESQURESHI">
-    <img src="https://img.icons8.com/color/48/github--v1.png" width="28"/>
+    <img src="https://img.icons8.com/color/48/github--v1.png" />
   </a>
    <a href="mailto:muhammadshees819@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="28"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" />
   </a>
 </p>
 
