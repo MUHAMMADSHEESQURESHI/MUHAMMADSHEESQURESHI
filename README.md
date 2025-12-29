@@ -22,15 +22,10 @@ I'm a passionate developer learning to build full-stack applications with MongoD
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,firebase,js,html,css,git,vscode,tailwind" />  </a>
 </p>
 
+## 📊 GitHub Stats :
 
-
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMADSHEESQURESHI&theme=dark" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADSHEESQURESHI&layout=compact&theme=dark" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMADSHEESQURESHI&show_icons=true&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=MUHAMMADSHEESQURESHI&theme=github-dark" />
 </p>
 
