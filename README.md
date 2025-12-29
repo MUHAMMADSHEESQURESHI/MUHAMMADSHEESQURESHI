@@ -24,3 +24,7 @@ I'm a passionate developer learning to build full-stack applications with MongoD
 
 
 
+### 📊 GitHub Stats:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMADSHEESQURESHI&theme=dark&hide_border=false)
+
