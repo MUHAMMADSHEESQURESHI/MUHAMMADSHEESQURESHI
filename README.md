@@ -26,6 +26,8 @@ I'm a passionate developer learning to build full-stack applications with MongoD
 
 ## GitHub Stats Test
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUHAMMADSHEESQURESHI&show_icons=true&theme=dark)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMADSHEESQURESHI&show_icons=true&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUHAMMADSHEESQURESHI&theme=dark" />
+</p>
 
