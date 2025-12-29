@@ -12,8 +12,9 @@ I'm a passionate developer learning to build full-stack applications with MongoD
 
 ### 🤝 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-shees-399780252/)
-
+  <a href="https://facebook.com/YOUR_USERNAME">
+    <img src="https://img.icons8.com/color/48/facebook-new.png"/>
+  </a>
 <a href="https://www.facebook.com/profile.php?id=100068210876089" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
